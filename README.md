@@ -11,6 +11,7 @@ Second - In order to use XAMPP, one must put the file "NewVisions" inside /htdoc
 
 Note: In my case, i had to put NewVisions folder inside C:\xampp\htdocs\ which allowed me to get onto my localserver: http://localhost/NewVisions/index.html.
 
+URL for the program: https://hinteroo.github.io/NewVisions/index.html
 
 I have written down some notes in my files.
    
