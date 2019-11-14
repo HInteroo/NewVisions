@@ -17,7 +17,7 @@ body{
   margin-top: -180px;
   border-radius: 5px;
   border: 1px solid;
-  transition: all 1s;
+  transition: height 0.5s;
   background-color: white;
   box-shadow: 1px 1px 8px 1px;
 }
