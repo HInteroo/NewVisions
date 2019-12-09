@@ -1,5 +1,7 @@
 # NewVisions
 
+#### Update (12/9/19): added a Palindrome.js file under Javascript. :)
+
 ## Javascript Engineering Resident Performance Task - New Visions for Public Schools
 
 ### Steps Taken:
